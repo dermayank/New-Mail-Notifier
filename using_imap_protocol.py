@@ -4,7 +4,7 @@ import imaplib
 import email
 import os
 
-email_id = "mayankrocking80@gmail.com"
+email_id = ""
 password = '';
 server = "imap.gmail.com";
 port = 993;
