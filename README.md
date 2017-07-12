@@ -8,7 +8,7 @@ It uses two methods of retrieving mails:
 # Usage 
   After downloading the code execute following command on terminal:
          
-             $python new recent_mail.py
+             $python recent_mail.py
           
 # Limitation
   Currently the code had been  tested only on Linux(Ubuntu) Platform. I am not sure about its behaviour in Windows or Mac Platform.
