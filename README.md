@@ -1,4 +1,4 @@
-# new-mail-notifier
+# New-Mail-Notifier
 A python code that will notify you whenever you have received a new email.
 
 It uses two methods of retrieving mails:
